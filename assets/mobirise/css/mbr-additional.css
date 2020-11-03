@@ -1100,7 +1100,7 @@ a {
 }
 .cid-seOwFDFjy5 {
   padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-bottom: 6rem;
   background-image: url("../../../assets/images/mbr-1920x1276.jpg");
 }
 @media (min-width: 1500px) {
@@ -1128,6 +1128,9 @@ a {
   color: #fafafa;
 }
 .cid-seOwFDFjy5 .mbr-section-title {
+  color: #fafafa;
+}
+.cid-seOwFDFjy5 .mbr-section-subtitle {
   color: #fafafa;
 }
 .cid-seOx1ZWNX4 {
