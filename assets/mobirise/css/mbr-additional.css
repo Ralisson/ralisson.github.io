@@ -1100,8 +1100,8 @@ a {
   }
 }
 .cid-seOwFDFjy5 {
-  padding-top: 4rem;
-  padding-bottom: 6rem;
+  padding-top: 6rem;
+  padding-bottom: 4rem;
   background-image: url("../../../assets/images/mbr-1920x1276.jpeg");
 }
 @media (min-width: 1500px) {
@@ -1137,7 +1137,7 @@ a {
 .cid-sfwy31f8JU {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/mbr-1920x1281.jpeg");
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-sfwy31f8JU .mbr-text {
   color: #767676;
@@ -1174,77 +1174,6 @@ a {
 .cid-sfwy31f8JU .mbr-section-title,
 .cid-sfwy31f8JU .card-box {
   color: #fafafa;
-}
-.cid-sfwuGxqiFi {
-  padding-top: 6rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sfwuGxqiFi .card-wrapper {
-  padding-right: 2rem;
-}
-@media (max-width: 992px) {
-  .cid-sfwuGxqiFi .card {
-    margin-bottom: 2rem!important;
-  }
-  .cid-sfwuGxqiFi .card-wrapper {
-    padding: 0 1rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sfwuGxqiFi .link-wrap {
-    align-items: center;
-  }
-}
-.cid-sfwuGxqiFi .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-seOx2OgS8m {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background: #fafafa;
-}
-.cid-seOx2OgS8m .list-group-item {
-  background-color: transparent;
-  padding: .5rem 3.25rem;
-}
-.cid-seOx2OgS8m .plan-body {
-  padding-bottom: 2rem;
-}
-.cid-seOx2OgS8m .plan-header {
-  padding-top: 2rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.cid-seOx2OgS8m .price {
-  color: #6592e6;
-}
-.cid-seOx2OgS8m .plan {
-  word-break: break-word;
-  background-color: #ffffff;
-}
-.cid-seOx2OgS8m .plan .list-group-item {
-  position: relative;
-  justify-content: center;
-  border: 0;
-}
-.cid-seOx2OgS8m .plan .list-group-item::after {
-  position: absolute;
-  bottom: 1px;
-  left: 25%;
-  width: 50%;
-  height: 1px;
-  content: "";
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.cid-seOx2OgS8m .plan .list-group-item:last-child::after {
-  display: none;
-}
-@media (max-width: 991px) {
-  .cid-seOx2OgS8m .plan {
-    margin-bottom: 2rem;
-  }
 }
 .cid-s48vaXqeL6 {
   padding-top: 2rem;
